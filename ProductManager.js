@@ -70,7 +70,7 @@ class ProductManager {
 
 const products = new ProductManager
 
-//products.addProduct("Revesderecho Linea Premium Wool ", "Equilibrio perfecto entre nobleza y calidez. No te arrepentirás!  100% Lana ahora es Wool, si decides comprarlo ahora, lo recibirás como Wool.  Al finalizar tu proyecto, te sugerimos bloquearlo para que la prenda quede pareja y se luzca mejor.  Lavado: a mano sin estrujar, agua fría y secado idealmente sobre una toalla en forma horizontal", "https://http2.mlstatic.com/D_NQ_NP_2X_827193-MLC46449211048_062021-F.webp", "$4.990", "0001", "100")
+products.addProduct("Revesderecho Linea Premium Wool ", "Equilibrio perfecto entre nobleza y calidez. No te arrepentirás!  100% Lana ahora es Wool, si decides comprarlo ahora, lo recibirás como Wool.  Al finalizar tu proyecto, te sugerimos bloquearlo para que la prenda quede pareja y se luzca mejor.  Lavado: a mano sin estrujar, agua fría y secado idealmente sobre una toalla en forma horizontal", "https://http2.mlstatic.com/D_NQ_NP_2X_827193-MLC46449211048_062021-F.webp", "$4.990", "0001", "100")
 //products.addProduct("Product1", "Description1", "Image1", 2000, "0002", 50)
 //products.addProduct("Product3", "Description1", "Image1", 2000, "0002", 50)
 // products.getProducts()
